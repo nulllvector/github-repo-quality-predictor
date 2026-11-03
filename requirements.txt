@@ -1,0 +1,17 @@
+# API & Data Collection
+requests            # For making HTTP requests to GitHub API
+python-dotenv       # For loading .env file
+
+# Data Handling
+pandas              # DataFrames - the backbone of data work
+numpy               # Numerical operations
+
+# Visualization
+matplotlib          # Basic plotting
+seaborn             # Beautiful statistical plots
+
+# Machine Learning
+scikit-learn        # ML algorithms, preprocessing, evaluation
+
+# Notebooks
+notebook<7          # Classic Jupyter Notebook interface
