@@ -12,6 +12,8 @@ seaborn             # Beautiful statistical plots
 
 # Machine Learning
 scikit-learn        # ML algorithms, preprocessing, evaluation
+lightgbm            # Fast histogram-based gradient boosting
+optuna              # Bayesian hyperparameter optimization
 
 # Notebooks
 notebook<7          # Classic Jupyter Notebook interface
