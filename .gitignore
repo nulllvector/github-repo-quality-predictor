@@ -17,6 +17,8 @@ __pycache__/
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# OS files
+# OS and Editor files
 .DS_Store
 Thumbs.db
+.vscode/
+.idea/
